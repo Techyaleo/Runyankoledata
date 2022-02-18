@@ -1,0 +1,447 @@
+{"Animals":[
+  {
+    "Runyankole": "Birds(Ebinyonyi)",
+    "English": ""
+  },
+  {
+    "Runyankole": "Enkoko",
+    "English": "Chicken"
+  },
+  {
+    "Runyankole": "Embata",
+    "English": "Duck"
+  },
+  {
+    "Runyankole": "Senkoko",
+    "English": "Turkey"
+  },
+  {
+    "Runyankole": "Enkanga",
+    "English": "Guineafowl"
+  },
+  {
+    "Runyankole": "Enyawawa",
+    "English": "Ibis"
+  },
+  {
+    "Runyankole": "Ekihihizi",
+    "English": "Owl"
+  },
+  {
+    "Runyankole": "Empungu",
+    "English": "Eagle"
+  },
+  {
+    "Runyankole": "Ekinywashande",
+    "English": "Weaver bird"
+  },
+  {
+    "Runyankole": "Ekikona",
+    "English": "Crow"
+  },
+  {
+    "Runyankole": "Kamushungushungu",
+    "English": "Long crested eagle"
+  },
+  {
+    "Runyankole": "Entuuha",
+    "English": "Crested crane"
+  },
+  {
+    "Runyankole": "Karoori",
+    "English": "Marabou Stock"
+  },
+  {
+    "Runyankole": "Enkombe",
+    "English": "Dove"
+  },
+  {
+    "Runyankole": "Oruyongoyongo",
+    "English": "Heron"
+  },
+  {
+    "Runyankole": "Akakya",
+    "English": "Sparrow-hawk"
+  },
+  {
+    "Runyankole": "Kanyamunyu",
+    "English": "African pied wagtail"
+  },
+  {
+    "Runyankole": "Akataratambi",
+    "English": "Swallow"
+  },
+  {
+    "Runyankole": "Enyagyi",
+    "English": "Egret"
+  },
+  {
+    "Runyankole": "Enshoigo",
+    "English": "Honey guide bird"
+  },
+  {
+    "Runyankole": "Ekityokori",
+    "English": "Bulbul"
+  },
+  {
+    "Runyankole": "Ekishoha",
+    "English": "kingfisher"
+  },
+  {
+    "Runyankole": "Endahi",
+    "English": "Quail"
+  },
+  {
+    "Runyankole": "Enfunzi",
+    "English": "Finch(red-billed,etc) or Mannikin"
+  },
+  {
+    "Runyankole": "Kaanyonza",
+    "English": "Robinbird"
+  },
+  {
+    "Runyankole": "Kankomangwa",
+    "English": "Woodpecker"
+  },
+  {
+    "Runyankole": "Kamuzinzi",
+    "English": "Brown African Wading"
+  },
+  {
+    "Runyankole": "Omushure",
+    "English": "Mouse bird"
+  },
+  {
+    "Runyankole": "Ekiteera-nkumba",
+    "English": "Sparrow"
+  },
+  {
+    "Runyankole": "Kanywataabe",
+    "English": "Humming bird"
+  },
+  {
+    "Runyankole": "Reptiles,Invertebrates and amphibians",
+    "English": ""
+  },
+  {
+    "Runyankole": "Enjoka",
+    "English": "Snake(s)"
+  },
+  {
+    "Runyankole": "Encwera",
+    "English": "Cobra Snake"
+  },
+  {
+    "Runyankole": "Oruziramira",
+    "English": "Python Snake"
+  },
+  {
+    "Runyankole": "Empiri",
+    "English": "Puff Adder"
+  },
+  {
+    "Runyankole": "Enyaaruju",
+    "English": "Chameleon"
+  },
+  {
+    "Runyankole": "Goonya",
+    "English": "Crocodile"
+  },
+  {
+    "Runyankole": "Ekikyere",
+    "English": "Frog or toad"
+  },
+  {
+    "Runyankole": "Ekihangare",
+    "English": "Agama lizard"
+  },
+  {
+    "Runyankole": "Ekinya",
+    "English": "Lizard"
+  },
+  {
+    "Runyankole": "Omunyongororwa",
+    "English": "Earth Worm"
+  },
+  {
+    "Runyankole": "Enyogori",
+    "English": "Maggots"
+  },
+  {
+    "Runyankole": "Ekinyatinda",
+    "English": "Snail"
+  },
+  {
+    "Runyankole": "Engaara",
+    "English": "Crab"
+  },
+  {
+    "Runyankole": "Efaana",
+    "English": "Tapeworm"
+  },
+  {
+    "Runyankole": "Empanami",
+    "English": "Round worms"
+  },
+  {
+    "Runyankole": "Akanyankogote",
+    "English": "Tortoise"
+  },
+  {
+    "Runyankole": "Mammals",
+    "English": ""
+  },
+  {
+    "Runyankole": "Embuzi",
+    "English": "Goat(s)"
+  },
+  {
+    "Runyankole": "Empaya",
+    "English": "He goat(s)"
+  },
+  {
+    "Runyankole": "Entaama",
+    "English": "Sheep"
+  },
+  {
+    "Runyankole": "Ente",
+    "English": "Cattle"
+  },
+  {
+    "Runyankole": "Enumi",
+    "English": "Bull(s)"
+  },
+  {
+    "Runyankole": "Empunu",
+    "English": "Pig(s)"
+  },
+  {
+    "Runyankole": "Enjangu",
+    "English": "Cat(s)"
+  },
+  {
+    "Runyankole": "Embwa",
+    "English": "Dog(s)"
+  },
+  {
+    "Runyankole": "Embeba",
+    "English": "Rat(s)"
+  },
+  {
+    "Runyankole": "Orubaka",
+    "English": "Bat or Flying fox"
+  },
+  {
+    "Runyankole": "Ekyende",
+    "English": "Vervet monkey(s)"
+  },
+  {
+    "Runyankole": "Muuha",
+    "English": "Fox(s)"
+  },
+  {
+    "Runyankole": "Ekicuncu",
+    "English": "Lion"
+  },
+  {
+    "Runyankole": "Engwe",
+    "English": "Leopard(s)"
+  },
+  {
+    "Runyankole": "Enjubu",
+    "English": "Hippopotamus"
+  },
+  {
+    "Runyankole": "Enjojo",
+    "English": "Elephant(s)"
+  },
+  {
+    "Runyankole": "Ekisegyesi",
+    "English": "Porcupine"
+  },
+  {
+    "Runyankole": "Enkobe",
+    "English": "Baboon(s)"
+  },
+  {
+    "Runyankole": "Akame",
+    "English": "Rabbit"
+  },
+  {
+    "Runyankole": "Enjiiri",
+    "English": "Warthog(s)"
+  },
+  {
+    "Runyankole": "Empitsi",
+    "English": "Spotted Hyena(s)"
+  },
+  {
+    "Runyankole": "Engabi",
+    "English": "Bushbuck"
+  },
+  {
+    "Runyankole": "Enkorongo",
+    "English": "Roan antelope"
+  },
+  {
+    "Runyankole": "Empundu",
+    "English": "Chimpanzee"
+  },
+  {
+    "Runyankole": "Engagi",
+    "English": "Gorilla"
+  },
+  {
+    "Runyankole": "Engyeya",
+    "English": "Colobus Monkey"
+  },
+  {
+    "Runyankole": "Entuuru",
+    "English": "Wild cat"
+  },
+  {
+    "Runyankole": "Omushega",
+    "English": "Wolf"
+  },
+  {
+    "Runyankole": "Enshama",
+    "English": "Reedbuck"
+  },
+  {
+    "Runyankole": "Ekishwaga",
+    "English": "Eland"
+  },
+  {
+    "Runyankole": "Entwiga",
+    "English": "Giraffee"
+  },
+  {
+    "Runyankole": "Fish(Ekyenyanza)",
+    "English": ""
+  },
+  {
+    "Runyankole": "Mukene",
+    "English": "Silver fish"
+  },
+  {
+    "Runyankole": "Empuuta",
+    "English": "Nile perch"
+  },
+  {
+    "Runyankole": "Semutundu",
+    "English": "Catfish"
+  },
+  {
+    "Runyankole": "Emmamba",
+    "English": "Lungfish"
+  },
+  {
+    "Runyankole": "Ensonzi",
+    "English": "Eels"
+  },
+  {
+    "Runyankole": "Enkejje",
+    "English": "Sprat"
+  },
+  {
+    "Runyankole": "Emaare",
+    "English": "Clarias"
+  },
+  {
+    "Runyankole": "Insects",
+    "English": ""
+  },
+  {
+    "Runyankole": "Ensenene",
+    "English": "Grasshoppers"
+  },
+  {
+    "Runyankole": "Enzigye",
+    "English": "Locust"
+  },
+  {
+    "Runyankole": "Enjoki",
+    "English": "Bee(s)"
+  },
+  {
+    "Runyankole": "Esiri",
+    "English": "Mosquito"
+  },
+  {
+    "Runyankole": "Engoha",
+    "English": "Tick(s)"
+  },
+  {
+    "Runyankole": "Eshohera",
+    "English": "Housefly"
+  },
+  {
+    "Runyankole": "Empaazi",
+    "English": "Red ants(Safari ants)"
+  },
+  {
+    "Runyankole": "Ekyebebe",
+    "English": "Termite"
+  },
+  {
+    "Runyankole": "Obusisi",
+    "English": "Tiny Black ants"
+  },
+  {
+    "Runyankole": "Ekiyenje",
+    "English": "Cockroach"
+  },
+  {
+    "Runyankole": "Enwa",
+    "English": "Wasp(s) or hornet(s)"
+  },
+  {
+    "Runyankole": "Akasuzi",
+    "English": "Bed bug"
+  },
+  {
+    "Runyankole": "Ekitangura",
+    "English": "Spider"
+  },
+  {
+    "Runyankole": "Mufihamba",
+    "English": "Large Winged Carpenter ant(s)"
+  },
+  {
+    "Runyankole": "Enshwa",
+    "English": "Flying termites"
+  },
+  {
+    "Runyankole": "Tishenjera",
+    "English": "Fermentation fly"
+  },
+  {
+    "Runyankole": "Ekijerere",
+    "English": "Cricket"
+  },
+  {
+    "Runyankole": "Enyabumba",
+    "English": "Mud dauber"
+  },
+  {
+    "Runyankole": "Emungwe",
+    "English": "Bean weevil"
+  },
+  {
+    "Runyankole": "Ekijunjuure",
+    "English": "Carpenter bee"
+  },
+  {
+    "Runyankole": "Enkwirwa",
+    "English": "Small red ants"
+  },
+  {
+    "Runyankole": "Oruzimu",
+    "English": "Praying mantis"
+  },
+  {
+    "Runyankole": "Ekihuguhugu",
+    "English": "Butterfly"
+  }
+]
+}
